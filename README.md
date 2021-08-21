@@ -12,7 +12,7 @@ Just double click on "Apagar" and your computer will shut down.
 
 It is recommended to create a shortcut using the image called "turn-off.png".
 
-[![turn_off_icon](./screenshots/turn-off.png)]()
+<img src="./screenshots/turn-off.png" width="120px" alt="turn_off_icon">
 
 ## Script inside apagar.bat
 [![Batch_script](./screenshots/code-apagar.bat.png)]()
@@ -24,5 +24,7 @@ In Spanish - [Cómo usar shutdown](https://www.ionos.es/digitalguide/servidores/
 - <div>Icon made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 - [Background imgage](https://images.unsplash.com/photo-1565993545587-f0a82a0d09b9) by Eugene [Chystiakov](https://unsplash.com/@eugenechystiakov)
+
+- Source code image made with [Carbon](https://carbon.now.sh/)
 
 [![Freepik_icon](./screenshots/freepik_icon.png)]()
